@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "cloudxier_simple_blog",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
